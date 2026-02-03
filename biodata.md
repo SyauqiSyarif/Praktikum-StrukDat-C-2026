@@ -1,0 +1,3 @@
+Nama:Fadhel_Syauqi_Syarif
+Nim:25071103689
+Prodi:Teknik_Informatika
