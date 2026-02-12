@@ -57,3 +57,7 @@ thisdict = {
 }
 thisdict.pop("model")
 print(thisdict)
+
+
+
+
